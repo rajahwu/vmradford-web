@@ -3811,6 +3811,7 @@ input, select, textarea {
 				text-align: center;
 				top: 0;
 				width: 100%;
+				filter: sepia(50%);
 			}
 
 				#sidebar > .inner {
