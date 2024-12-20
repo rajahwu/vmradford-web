@@ -1,33 +1,47 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Vincent Radford's Portfolio
 
+Welcome to my professional portfolio site! This site showcases my diverse background, skills, and projects. I'm excited to share my journey and achievements with you.
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+## Table of Contents
+1. [About Me](#about-me)
+2. [Skills](#skills)
+3. [Projects](#projects)
+4. [Experience](#experience)
+5. [Contact](#contact)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## About Me
+Hello! I'm Vincent Radford, a professional with a diverse background in clerical work, data entry, and administrative support. I have extensive experience in front desk operations, case management, and service dispatching. Outside of my professional life, I enjoy performing magic tricks, writing songs and stories, playing the guitar and piano, and practicing martial arts and MMA.
 
-(* = not included)
+## Skills
+Here are some of the skills I bring to the table:
+- **Clerical and Administrative Support:** Front desk operations, data entry, mailroom activities, proofreading legal documents, and program letters.
+- **Case Management:** Client intake, record management, appointment coordination.
+- **Technical Proficiency:** Office 365, Outlook, Excel, Word, PowerPoint, Python, JavaScript, SQL.
+- **Creative Skills:** Magic tricks, songwriting, storytelling, guitar, piano.
+- **Martial Arts:** Practicing various martial arts and MMA techniques.
 
-AJ
-aj@lkn.io | @ajlkn
+## Projects
+### Project 1: [Family Planning with Microsoft 365](https://vmradford.netlify.app/projects/family-planning)
+A comprehensive guide on how to use Microsoft 365 tools to efficiently manage family schedules, tasks, and communications.
 
+### Project 2: [Christmas Coding](https://vmradford.netlify.app/projects/christmas-coding)
+A fun project that infuses festive spirit into coding with Christmas-themed websites, countdown apps, and holiday games.
 
-Credits:
+### Project 3: [HTML to React Conversion](https://vmradford.netlify.app/projects/html-to-react)
+A detailed exploration of the pros and cons of converting an HTML template portfolio site to React.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+### Project 4: [The Hero's Journey in Web Design](https://vmradford.netlify.app/projects/heros-journey)
+Applying the principles of the Hero's Journey to create an engaging and intuitive user experience in web design.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Experience
+- **Commonwealth of Pennsylvania:** Clerk Typist
+- **JFK Behavioral Health Center:** Case Manager
+- **J.P. Mascaro & Sons:** Service Dispatcher
+- **US Army:** Ammunition Logistics Manager
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Contact
+Feel free to reach out to me via:
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vincentradford)
+- **Twitter:** [@VincentRadford](https://twitter.com/VincentRadford)
+- **Instagram:** [@VincentRadford](https://instagram.com/VincentRadford)
