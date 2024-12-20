@@ -1,6 +1,6 @@
 ---
 title: 'Pros and Cons of Converting Your HTML Template Portfolio Site to React'
-description: 'Let get started. Here what I look to do and how to engage with me.'
+description: 'Explore the benefits and challenges of transitioning your portfolio site from an HTML template to a React-based framework. Weigh the improved performance, scalability, and user experience against the learning curve and development complexity to make an informed decision.'
 pubDate: 'Jul 08 2022'
 heroImage: '/html-to-react.png'
 ---

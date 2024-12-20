@@ -1,7 +1,7 @@
 ---
 title: 'Christmas Coding: Bringing Holiday Cheer to Your Projects'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jun 01 2024'
+description: 'Discover how to infuse festive spirit into your coding projects with Christmas-themed websites, countdown apps, holiday games, and smart home automatons. Embrace creativity and fun as you code your way to a merry holiday season!'
+pubDate: 'Dec 20 2024'
 heroImage: '/christmas-coding.png'
 ---
 

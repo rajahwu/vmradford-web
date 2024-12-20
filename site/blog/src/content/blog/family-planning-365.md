@@ -1,6 +1,6 @@
 ---
 title: 'Family Planning with Microsoft 365: Organize and Streamline Your Family Life'
-description: 'Lorem ipsum dolor sit amet'
+description: 'Learn how to use Microsoft 365 tools like Outlook Calendar, Microsoft To Do, OneNote, and OneDrive to efficiently manage your family's schedules, tasks, and communications. Achieve seamless organization and enhanced productivity in your family life.'
 pubDate: 'Jul 22 2022'
 heroImage: '/microsoft-family-planning.png'
 ---
