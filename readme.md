@@ -54,7 +54,7 @@ Built a **secure authentication system using Firebase Authentication and React R
 
 ## 📞 Contact Me  
 Feel free to reach out to me via:  
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email:** [your-email@example.com](mailto:vmradford@gmail.com)  
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vincentradford)  
 🖥 **GitHub:** [GitHub Profile](https://github.com/rajahwu)  
 🌍 **Portfolio:** [vincentradford.live](https://vmradford-web.vercel.app/)  
